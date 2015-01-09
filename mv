@@ -1,0 +1,3 @@
+Description: mv makes a copy of a file into the specified location, then deletes the original copy.
+
+Usage: mv [original path/file] [new path/file]
