@@ -1,0 +1,6 @@
+Description: wc stands for word count, and by default will print the number of lines, words and characters of its stdin
+
+Usage: wc [filename]
+A common use is to count something by using the -l switch (number of lines)
+
+Example: env | grep keyword | wc -l
