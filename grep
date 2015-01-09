@@ -1,0 +1,4 @@
+Description: grep is used to find text within files
+
+Usage: grep [keyword] [path/file to search in]
+Alternatively, you can use redirection rather than specify the location in which the search will take place.
